@@ -1,5 +1,5 @@
-#<center>ULPSort</center>
-####<center> Request sorter</center>
+# ULPSort
+#### Request sorter
 ##### <center> 🔗 [View code](https://github.com/et3rn1tyy/ulpsort/blob/main/ulp.py "View code") | 💸 [Support project](https://t.me/et3rn1tybio/6 "Support project") | 💼 [Telegram Channel ](https://t.me/et3rn1tybio "Telegram Channel ")</center>
 ### 🎯 About
 #####  Convenient keyword parser. No regular expressions. It works quite quickly due to the multi-threaded mode, and is not afraid of files >10kkk lines. The project is planned to release updates in the future.
